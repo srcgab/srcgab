@@ -1,8 +1,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=62409F&size=45&center=true&vCenter=true&width=2000&lines=Olá!+Meu+nome+é+Gabrielle+Costa,+tenho+19+anos.;Atualmente+curso++Ciência+da+Computação+e+sou+formada+como+técnica+de+informática.;Seja+bem-vindo(a)!+:%29)](https://git.io/typing-svg)
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=srcgab&show_icons=true&count_private=true&rank_icon=github&hide_border=false&border_radius=6.5&theme=transparent&title_color=8363BC&icon_color=8363BC&text_color=5e3e93&border_color=62409F&locale=pt-br" alt="Gabrielle Costa - Github Stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=srcgab&layout=compact&hide_progress=false&hide_border=false&border_radius=6.5&theme=transparent&title_color=8363BC&text_color=5e3e93&border_color=62409F&locale=pt-br" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=srcgab&show_icons=true&count_private=true&rank_icon=github&hide_border=false&border_radius=6.5&theme=dracula&title_color=88b1ea&icon_color=201532&text_color=8363BC&border_color=62409F&locale=pt-br" alt="Gabrielle Costa - Github Stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=srcgab&layout=compact&hide_progress=false&hide_border=false&border_radius=6.5&theme=dracula&title_color=88b1ea&text_color=8363BC&border_color=62409F&locale=pt-br" />
 </div>
 
  ### Main skills:
